@@ -24,3 +24,4 @@
 * [22. Торговое финансирование](22.-torgovoe-finansirovanie.md)
 * [23. Цифровая идентичность](23.-cifrovaya-identichnost.md)
 * [24. Итоги](24.-itogi.md)
+* [Total](total.md)
