@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1. Что такое блокчейн и почему он может быть катализатором больших изменений в фина](README.md)
+* [1. Что такое блокчейн и почему он может быть катализатором больших изменений в финансах?](README.md)
 * [2. Деньги, леджеры и биткоин \[SOON\]](2.-dengi-ledzhery-i-bitkoin-soon.md)
 * [3. Криптография и основы блокчейна](3.-kriptografiya-i-osnovy-blokcheina.md)
 * [4. Консенсус и основы блокчейна \[SOON\]](4.-konsensus-i-osnovy-blokcheina-soon.md)
